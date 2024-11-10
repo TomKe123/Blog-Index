@@ -4,36 +4,24 @@ const WEBSITE_SORTS: WebsiteSort[] = [
     title: "示例分类1",
     sites: [
       {
-        title: "主标题",
-        url: "http://www.your-web-page.com/",
+        title: "博客",
+        url: "http://www.tomsie.us.kg/",
         icon: "",
         color: "#0171CD",
       },
       {
-        title: "主标题",
-        description: "网站描述",
-        url: "http://www.your-web-page.com/",
+        title: "音乐（PC）",
+        description: "为大屏设备设计的音乐网站（音源来自网易云）",
+        url: "https://music.tomsite.us.kg/",
         icon: "",
       },
       {
-        title: "主标题",
-        description: "网站描述",
-        url: "http://www.your-web-page.com/",
+        title: "音乐（全平台）",
+        description: "全平台适配的音乐网站（音源来自网易云）",
+        url: "https://m.music.tomsite.us.kg/",
         icon: "",
       },
     ],
-  },
-  {
-    title: "示例分类2",
-  },
-  {
-    title: "示例分类3",
-  },
-  {
-    title: "示例分类4",
-  },
-  {
-    title: "示例分类5",
   },
   {
     title: "友情链接",
@@ -55,11 +43,11 @@ const GLOBAL_CONFIG = {
   /**
    * 博客名称
    */
-  BLOG_NAME: "EsunR-Blog",
+  BLOG_NAME: "Tom-Blog",
   /**
    * 个人博客链接
    */
-  BLOG_URL: "https://blog.esunr.xyz",
+  BLOG_URL: "https://blog.tomsite.us.kg",
   /**
    * 指定中心 LOGO 图片地址
    */
@@ -67,7 +55,7 @@ const GLOBAL_CONFIG = {
   /**
    * 个人 Github 链接
    */
-  GITHUB_URL: "https://github.com/EsunR",
+  GITHUB_URL: "https://github.com/TomKe123",
   /**
    * 背景图片地址
    */
@@ -75,8 +63,8 @@ const GLOBAL_CONFIG = {
   /**
    * ICP 备案号，留空不显示
    */
-  ICP: "京ICP证000001号",
-  ICP_URL: "https://beian.miit.gov.cn/",
+  ICP: "",
+  ICP_URL: "/",
   FOOTER_INFO: true,
   /**
    * 网站欢迎标语
