@@ -5,8 +5,8 @@ const WEBSITE_SORTS: WebsiteSort[] = [
     sites: [
       {
         title: "博客",
-        url: "http://www.tomsie.us.kg/",
-        icon: "",
+        url: "http://blog.tomsie.us.kg/",
+        icon: "https://upload-bbs.miyoushe.com/upload/2024/02/01/108449504/faaa640defc3ed559e3e2437b08e0f9c_6821362145244284016.jpg?x-oss-process=image/resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg",
         color: "#0171CD",
       },
       {
