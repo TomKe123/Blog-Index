@@ -51,7 +51,7 @@ const GLOBAL_CONFIG = {
   /**
    * 指定中心 LOGO 图片地址
    */
-  LOGO_URL: null,
+  LOGO_URL: "https://drive.tomsite.us.kg/api/raw/?path=/img/logo.jpeg",
   /**
    * 个人 Github 链接
    */
